@@ -4,34 +4,27 @@ role: University Assistant/Predoctoral Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - MachineTranslation
+  - GenderFairLanguage
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  - icon: cv
+  - display:
+      header: false
+    link: https://twitter.com/manuellardelli
     icon_pack: ai
-    link: uploads/resume.pdf
+    icon: https://fontawesome.com/icons/twitter?f=brands&s=solid
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/manuellardelli/
+    icon_pack: ai
+    icon: https://fontawesome.com/icons/twitter?f=brands&s=solid
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=4spfMCEAAAAJ&hl=en&oi=ao
+    icon_pack: ai
+    icon: https://fontawesome.com/icons/twitter?f=brands&s=solid
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Graz
+    url: ""
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -51,6 +44,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+Manuel Lardelli is a University Assistant/Predoctoral Researcher at the University of Graz's Department of Translation Studies. In his research, he focuses on the translation and post-editing of gender-fair language beyond the binary. His interests encompass gender bias in machine translation, its socio-technical implications, gender-fair language, and feminist/queer translation. 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"}
