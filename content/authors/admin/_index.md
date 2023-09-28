@@ -1,6 +1,6 @@
 ---
 title: Manuel Lardelli
-role: Professor of Artificial Intelligence
+role: University Assistant/Predoctoral Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
