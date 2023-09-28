@@ -4,8 +4,10 @@ role: University Assistant/Predoctoral Researcher
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - MachineTranslation
-  - GenderFairLanguage
+  - Machine Translation
+  - Gender-Fair Language
+  - Queer Translation
+  - Translation Process Research
 social:
   - display:
       header: false
